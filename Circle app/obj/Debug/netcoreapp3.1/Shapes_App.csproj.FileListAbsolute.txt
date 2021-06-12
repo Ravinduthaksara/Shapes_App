@@ -1,0 +1,13 @@
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\bin\Debug\netcoreapp3.1\Shapes_App.exe
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\bin\Debug\netcoreapp3.1\Shapes_App.deps.json
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\bin\Debug\netcoreapp3.1\Shapes_App.runtimeconfig.json
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\bin\Debug\netcoreapp3.1\Shapes_App.runtimeconfig.dev.json
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\bin\Debug\netcoreapp3.1\Shapes_App.dll
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\bin\Debug\netcoreapp3.1\Shapes_App.pdb
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\obj\Debug\netcoreapp3.1\Shapes_App.csproj.AssemblyReference.cache
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\obj\Debug\netcoreapp3.1\Shapes_App.AssemblyInfoInputs.cache
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\obj\Debug\netcoreapp3.1\Shapes_App.AssemblyInfo.cs
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\obj\Debug\netcoreapp3.1\Shapes_App.csproj.CoreCompileInputs.cache
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\obj\Debug\netcoreapp3.1\Shapes_App.dll
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\obj\Debug\netcoreapp3.1\Shapes_App.pdb
+D:\Programs\Visual Studio\Shapes app\Shapes app\Circle app\obj\Debug\netcoreapp3.1\Shapes_App.genruntimeconfig.cache

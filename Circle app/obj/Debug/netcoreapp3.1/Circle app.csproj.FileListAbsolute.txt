@@ -1,0 +1,13 @@
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\bin\Debug\netcoreapp3.1\Circle app.exe
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\bin\Debug\netcoreapp3.1\Circle app.deps.json
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\bin\Debug\netcoreapp3.1\Circle app.runtimeconfig.json
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\bin\Debug\netcoreapp3.1\Circle app.runtimeconfig.dev.json
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\bin\Debug\netcoreapp3.1\Circle app.dll
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\bin\Debug\netcoreapp3.1\Circle app.pdb
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\obj\Debug\netcoreapp3.1\Circle app.AssemblyInfoInputs.cache
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\obj\Debug\netcoreapp3.1\Circle app.AssemblyInfo.cs
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\obj\Debug\netcoreapp3.1\Circle app.csproj.CoreCompileInputs.cache
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\obj\Debug\netcoreapp3.1\Circle app.dll
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\obj\Debug\netcoreapp3.1\Circle app.pdb
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\obj\Debug\netcoreapp3.1\Circle app.genruntimeconfig.cache
+D:\Programs\Visual Studio\Circle app\Circle app\Circle app\obj\Debug\netcoreapp3.1\Circle app.csproj.AssemblyReference.cache
